@@ -18,7 +18,7 @@ A collection of solutions to the coding interview questions I've solved so far.
     output should be, <br />
             ![Output pattern](diamond21.PNG)
 
-  >Solution : [Diamond Pattern](diamond-pattern.py) 
+   >Solution : [Diamond Pattern](diamond-pattern.py) 
 2. Print an integer representing the minimum number of bits required to be flipped to convert message P to message Q.
     * *Example*<br />
          Input: <br />
@@ -29,5 +29,5 @@ A collection of solutions to the coding interview questions I've solved so far.
      Binary representation of P is 00000111<br />
      Binary representation of P is 00001010<br />
      We need to flip three bits of P at position 5,6.
-    >Solution : [Flipping Bits](flipping-bits.py)
+   >Solution : [Flipping Bits](flipping-bits.py)
          
