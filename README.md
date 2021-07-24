@@ -15,7 +15,7 @@ A collection of solutions to the coding interview questions I've solved so far.
         
             ![Output image](diamond.PNG)
         - input n=21,
-    output should be,
+    output should be, <br />
             ![Output pattern](diamond21.PNG)
 
   >Solution : [Diamond Pattern](diamond-pattern.py) 
