@@ -14,7 +14,7 @@ A collection of solutions to the coding interview questions I've solved so far.
     output should be,
         
             ![Output image](diamond.PNG)
-        - input n=21,<br />
+        - input n=21,
     output should be,
             ![Output pattern](diamond21.PNG)
 
