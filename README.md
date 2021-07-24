@@ -3,7 +3,7 @@ A collection of solutions to the coding interview questions I've solved so far.
 
 ## Questions
 
-* Based on the input given, pattern should meet the following requirements: 
+1. Based on the input given, pattern should meet the following requirements: 
     * Total number of roes and columns should match the input
     * First and last columns should have characters formed by hyphens "-", except middle column
     * First and last rows should have characters formed by vertical bar "|", except middle row
@@ -19,7 +19,7 @@ A collection of solutions to the coding interview questions I've solved so far.
             ![Output pattern](diamond21.PNG)
 
   >Solution : [Diamond Pattern](diamond-pattern.py) 
-* Print an integer representing the minimum number of bits required to be flipped to convert message P to message Q.
+2. Print an integer representing the minimum number of bits required to be flipped to convert message P to message Q.
     * *Example*<br />
          Input: <br />
          7 10<br />
